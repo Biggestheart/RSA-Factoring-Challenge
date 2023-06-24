@@ -10,7 +10,7 @@ The RSA Factoring Challenge moduli were represented in decimal format and compri
 
 The RSA Factoring Challenge, although no longer active, holds significant importance as a benchmark for assessing the security of RSA and other public-key encryption algorithms. While all the published moduli have been successfully factored, the challenge's historical impact endures. It serves as a reminder of the ongoing need to advance cryptographic techniques and ensure the robustness of encryption algorithms in the face of evolving computational capabilities. The RSA Factoring Challenge continues to inform research and development efforts aimed at strengthening the security of public-key encryption systems.
 
-## References##
+## References
 
 - [RSA Factoring Challenge on Wikipedia](https://en.wikipedia.org/wiki/RSA_Factoring_Challenge)
 - [RSA Laboratories: RSA Factoring Challenge](https://www.rsa.com/rsalabs/node.asp?id=2093)
