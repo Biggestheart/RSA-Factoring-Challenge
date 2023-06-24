@@ -2,7 +2,7 @@
 
 RSA Factoring Challenge involved a computational task of factoring a provided RSA modulus into its two prime factors. Initiated in 1991 and conclude  in 2007, this challenge presented various RSA moduli with increasing bit lengths to the public, encouraging them to attempt the factorization proces
 
-~**Challenge Information:**~
+**Challenge Information:**
 
 The RSA Factoring Challenge moduli were represented in decimal format and comprised of a semiprime, which was the result of multiplying two prime numbers together. The primary objective of the challenge was to factorize the given semiprime and identify its two prime factors. The moduli were denoted using a specific naming convention, such as "RSA-2048-1," indicating that it was the first challenge and the semiprime had a length of 2048 bits. The semiprime values were initially expressed in hexadecimal format.
 
